@@ -15,13 +15,13 @@
        1. CONFIG — dados do estúdio (único lugar a mexer)
        ========================================================================== */
     const SITE = {
-        artist: "Yasmin",                       // TROCAR
-    handle: "yasmin_tattooart",
-    whatsapp: "5547988166336",                // +55 47 98816-6336
+        artist: "Tatuador",                       // TROCAR
+    handle: "tattooart",
+    whatsapp: "",                // +55 47 98816-6336
     city: "Jaraguá do Sul",
     state: "SC",
     // mensagem pré-preenchida: já chega com o que você precisa para orçar
-    waMsg: "Olá, Yasmin! Vim pelo site e quero um orçamento.%0A" +
+    waMsg: "Olá, Tatuador! Vim pelo site e quero um orçamento.%0A" +
     "Estilo/referência: %0A" +
     "Tamanho aproximado: %0A" +
     "Local do corpo: %0A" +
